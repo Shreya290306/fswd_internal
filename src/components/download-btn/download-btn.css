@@ -1,0 +1,19 @@
+.down-btn {
+    background-color: #4caf50;
+    color: white;
+    height: 40px;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+    line-height: 1.2;
+    font-size: 18px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.down-btn:hover {
+    background-color: #4caf50;
+    outline: 2px solid #91f995;
+}

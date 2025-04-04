@@ -1,0 +1,19 @@
+.del-btn {
+    background-color: #f14c4c;
+    color: white;
+    height: 40px;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+    line-height: 1.2;
+    font-size: 18px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.del-btn:hover{
+    background-color: #e04343;
+        outline: 2px solid #fb6767;
+}
